@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pedro 
+- 👋 Hello, I’m @Pedro 
 - 👀 I’m interested in Data Engineering, Data Quality, Data Science, Data Visualization, Python, Azure, AWS.
 - 🌱 I’m currently learning about Azure, AWS, Python, DataBase NoSQL.
 - 💞️ I’m looking to collaborate on ETL, Azure, AWS, Python, DataBase NoSQL, Power BI.
